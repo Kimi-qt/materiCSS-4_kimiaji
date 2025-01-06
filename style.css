@@ -1,0 +1,57 @@
+body{
+
+}
+
+.header{
+
+}
+
+.h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.navigasi{
+          margin: 20px;
+}
+
+.menu{
+
+
+}
+
+.href{
+    color: black;
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    gap: 6;
+}
+
+.main{
+
+}
+
+.profil{
+    padding: 10px;
+    margin: 60px;
+}
+
+.img{
+    padding: 10px;
+    margin: 10px;
+}
+
+.text{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin: 20px;
+}
+
+.copyright{
+    display: flex;
+    align-items:end;
+    justify-content: end;
+    padding: 10px;
+}
